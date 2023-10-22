@@ -1,1 +1,3 @@
-# plan_projet_final_vr
+# 🔥✨Plan du projet final de VR✨🔥
+
+Description : Gorrila tag / getting over it/ chat 😺

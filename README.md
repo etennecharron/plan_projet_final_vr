@@ -4,6 +4,6 @@
 
 
 ![image du moodboard](images/moodboard.png)
-![image de la maquette](images/environnement.png)
+![image de la maquette](images/environnement01.png)
 
 

@@ -9,4 +9,6 @@
 ## maquette
 ![image de la maquette](images/environnement01.png)
 
+## schéma de programation
+![schéma de programation](images/schéma_programation.png)
 

@@ -4,6 +4,6 @@
 
 
 ![image du moodboard](images/moodboard.png)
-[lien vers moodboard de son](https://www.behance.net/portfolio/editor?project_id=182956683)
+![image de la maquette](images/environnement.png)
 
 

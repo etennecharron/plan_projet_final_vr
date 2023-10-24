@@ -3,4 +3,4 @@
 - Description : Gorrila tag / only up / chat 😺
 
 
-![image du moodboard](image/moodboard.png)
+![image du moodboard](images/moodboard.png)
